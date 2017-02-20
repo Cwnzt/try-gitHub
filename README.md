@@ -1,6 +1,6 @@
 Samaritan
 =========
-###Samaritan interface - [demo page](http://rodrigograca31.github.io/Samaritan/)
+###Samaritan interface - [demo page](http://cwnzt.github.io/Samaritan/)
 
 Technologies:
 * HTML
@@ -8,7 +8,7 @@ Technologies:
 * JS
 
 Original author:
-Rodrigo Graça
+Cwnzt
 
-Modifications by:
-Jeiel Aranal [@chemikhazi](http://twitter.com/chemikhazi)
+other:
+http://git.hust.cc/canvas-nest.js/
